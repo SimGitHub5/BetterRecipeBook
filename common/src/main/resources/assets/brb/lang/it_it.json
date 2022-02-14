@@ -2,7 +2,7 @@
   "text.autoconfig.brb.title": "Configurazione di Better Recipe Book",
 
   "text.autoconfig.brb.category.default": "Impostazioni generali",
-  "text.autoconfig.brb.option.enableBook": "Enable the recipe book",
+  "text.autoconfig.brb.option.enableBook": "Abilita il libro di ricette",
   "text.autoconfig.brb.option.darkMode": "Enable dark mode variants of ui. §oRequires a full resourcepack",
   "text.autoconfig.brb.option.darkMode.@Tooltip": "Only enable this if you use a darkmode resourcepack like §avanilla tweaks§r.",
   "text.autoconfig.brb.option.keepCentered": "Keep crafting screens centered",
@@ -11,7 +11,7 @@
   "text.autoconfig.brb.option.settingsButton.@PrefixText": "§d--- Advanced ---\n§eForge Warning: §7If you disable either of these two options, you will have to edit them in the brb.toml file to access this menu again!\nOn fabric, you may use §bMod Menu§r to get here.",
 
   "text.autoconfig.brb.category.instantCraft": "Impostazioni di fabbricazione istantanea",
-  "text.autoconfig.brb.option.instantCraft.showButton": "Show instant craft button",
+  "text.autoconfig.brb.option.instantCraft.showButton": "Mostra il pulsante di fabbricazione istantanea",
 
   "text.autoconfig.brb.category.scrolling": "Scroll Settings",
   "text.autoconfig.brb.option.scrolling.scrollAround": "Scroll in circles",
@@ -24,7 +24,7 @@
   "text.autoconfig.brb.option.alternativeRecipes.noGrouped": "Un-group alternative recipes",
 
   "text.autoconfig.brb.category.newRecipes": "New Recipes Settings",
-  "text.autoconfig.brb.option.newRecipes.unlockAll": "Sblocca automaticamente tutte le ricetteì",
+  "text.autoconfig.brb.option.newRecipes.unlockAll": "Sblocca automaticamente tutte le ricette",
   "text.autoconfig.brb.option.newRecipes.enableBounce": "Enable unlock bounce animation",
   "text.autoconfig.brb.option.newRecipes.enableBounce.@Tooltip": "Enable the little bounce animation when you unlock a new item",
 
